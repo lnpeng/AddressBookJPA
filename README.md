@@ -11,7 +11,7 @@ The java program communicates with the Java DB and manages their data using JPA.
 # Getting Started
 ## Prerequisites
 - JDK 1.8
-- Java DB - Aparche Derby.
+- Java DB - Apache Derby.
 - JPA 2.1 - Persistence.
 - EclipseLink (JPA 2.1) - JPA reference implementation
 
